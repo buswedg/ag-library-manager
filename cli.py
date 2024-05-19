@@ -14,9 +14,9 @@ DATABASE_PATH = os.path.expanduser(
 
 LOCATION_OPTIONS = [
     r"C:\Amazon Games\Library",
-    r"D:\Games\AmazonGames",  # Frequently played
-    r"E:\Games\AmazonGames",  # Infrequently played
-    r"Z:\Games\AmazonGames"  # Won't play
+    r"D:\Games\Amazon Games",  # Frequently played
+    r"E:\Games\Amazon Games",  # Infrequently played
+    r"Z:\Games\Amazon Games"  # Won't play
 ]
 
 
